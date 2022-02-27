@@ -1,0 +1,16 @@
+{
+  "name": "new-project",
+  "author": "FelixAyeni",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest",
+    "discord.js": "^13.6.0",
+    "moment": "^2.29.1",
+    "cron": "^1.8.2",
+    "mongoose": "^6.2.3",
+    "bluebird": "^3.7.2",
+    "seedrandom": "^3.0.5",
+    "bunyan": "^1.8.15",
+    "bunyan-rotating-file-stream": "^2.0.0"
+  }
+}
